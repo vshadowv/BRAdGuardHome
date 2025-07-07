@@ -5836,3 +5836,4 @@
 @@|zrn.co^$important
 @@|ztd.dds.microsoft.com^$important
 @@|trueachievements.com^$important
+@@|*.microsoft.com^$important
